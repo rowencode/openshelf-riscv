@@ -4,7 +4,7 @@ export default defineConfig({
     title: "Lorem ipsum",
     titleTemplate: false,
     description: "Lorem ipsum dolor sit amet",
-    base: "/",
+    base: "/openshelf-riscv/",
 
     cleanUrls: true,
 
