@@ -1,0 +1,13 @@
+{
+    "files": {
+        "includes": ["**", "!node_modules"]
+    },
+    "linter": {
+        "enabled": true
+    },
+    "formatter": {
+        "enabled": true,
+        "indentStyle": "space",
+        "indentWidth": 4
+    }
+}
