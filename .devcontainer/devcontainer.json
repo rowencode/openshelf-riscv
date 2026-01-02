@@ -1,0 +1,8 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:24-trixie",
+    "customizations": {
+        "vscode": {
+            "extensions": ["DavidAnson.vscode-markdownlint", "biomejs.biome"]
+        }
+    }
+}
